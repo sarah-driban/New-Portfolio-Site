@@ -1,0 +1,51 @@
+.outer-container{
+    background: url(../img/texture.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.title {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    font-size: 6.5em;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.home {
+}
+
+.span_2_of_12 {
+    height: 1px;
+}
+
+.content{
+    margin: 30px;
+}
+
+.social {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 15px;
+}
+
+img.original {
+    display:block;
+    position: relative;
+}
+
+.media a:hover img.original {
+    display: none;
+}
+
+.media a:hover img.pink {
+    display: block;
+}
+
+img.pink {
+    display: none;
+}
