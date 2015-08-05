@@ -69,12 +69,16 @@ img.pink {
 }
 
 .button1 {
-    height: 55px;
+    height: 31px;
     background-color: #C1B8AE;
+    margin: 80px 0 0 0;
+    padding: 12px 0;
 }
 
 .button1 p {
-    font-family: "Oswald", "Arial", sans-serifsans-serif;
+    font-family: "Oswald", "Arial", sans-serif;
+    font-size: 2em;
+    line-spacing: 2em;
     color: #FFFFFF;
     width: 188px;
     text-align: center;
