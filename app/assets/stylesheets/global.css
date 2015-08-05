@@ -70,26 +70,5 @@ img.pink {
 
 .button1 {
     height: 21px;
-    background-color: #C1B8AE;
-}
-
-.button1 p {
-    font-family: "Oswald", "Arial", sans-serif;
-    font-size: 1.1em;
-    letter-spacing: .1em;
-    color: #FFFFFF;
-    width: 188px;
-    text-align: center;
-    float: left;
-    text-transform: uppercase;
-}
-
-.button1 img {
-    width: 22px;
-    float: left;
-}
-
-.button1:hover {
-    background-color: #B1245A;
 
 }
