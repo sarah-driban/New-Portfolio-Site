@@ -28,7 +28,7 @@ charcoal: #545251;
     color: #FFFFFF;
     text-transform: uppercase;
     font-weight: 700;
-    margin: 60px 0 100px 0;
+    margin: 60px 0 0px 0;
 }
 
 .home {
@@ -71,12 +71,12 @@ img.pink {
 .button1 {
     height: 21px;
     background-color: #C1B8AE;
-    padding: 17px 10px;
+    padding: 17px 5px;
 }
 
 .button1 p {
     font-family: "Oswald", "Arial", sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
     letter-spacing: .1em;
     color: #FFFFFF;
     width: 196px;
