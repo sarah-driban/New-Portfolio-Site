@@ -50,6 +50,8 @@ img.pink {
     display: none;
 }
 
+
+
 /* button markup */
 .c-hamburger {
     display: block;
@@ -103,7 +105,7 @@ img.pink {
 }
 
 .c-hamburger--htx {
-    background-color: #ff3264;
+    /*background-color: #ff3264;*/
 }
 
 .c-hamburger--htx span {
@@ -126,7 +128,7 @@ img.pink {
 
 /* active state, i.e. menu open */
 .c-hamburger--htx.is-active {
-    background-color: #cb0032;
+  /*  background-color: #cb0032;*/
 }
 
 .c-hamburger--htx.is-active span {
