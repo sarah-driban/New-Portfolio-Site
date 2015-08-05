@@ -1,3 +1,18 @@
+/* - - - - -  COLORS  - - - - - */
+/*
+
+"Oswald", sans-serif;
+
+gold: #F6BD18;
+yellow: #FFDC11;
+lime: #B8BD35;
+peach: #F48875;
+pink: #B1245A;
+grey: #C1B8AE;
+white: #FFF;
+charcoal: #545251;
+*/
+
 .outer-container{
     background: url(http://sarahdriban.com/site2/img/texture.png) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -55,12 +70,12 @@ img.pink {
 
 .button1 {
     height: 55px;
-    background-color: #grey;
+    background-color: #C1B8AE;
 }
 
 .button1 p {
-    font-family: #font-sans;
-    color: #white;
+    font-family: "Oswald", "Arial", sans-serifsans-serif;
+    color: #FFFFFF;
     width: 188px;
     text-align: center;
     float: left;
