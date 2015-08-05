@@ -13,6 +13,33 @@ white: #FFF;
 charcoal: #545251;
 */
 
+/*=======================
+  CLEARS
+=========================*/
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+    /* For IE 6/7 (trigger hasLayout) */
+}
+
+.clear {
+    clear: both;
+}
+
+/*==========
+HOME SCREEN AND CONTENT
+==========================*/
+
 .first-container{
     background: url(http://sarahdriban.com/site2/img/texture.png) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -41,7 +68,7 @@ charcoal: #545251;
 }
 
 .content{
-    margin: 30px;
+    margin: 30px 30px 0 30px;
 }
 
 .social {
