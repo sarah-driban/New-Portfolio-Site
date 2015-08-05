@@ -55,12 +55,12 @@ img.pink {
 
 .button1 {
     height: 55px;
-    background-color: $grey;
+    background-color: #grey;
 }
 
 .button1 p {
-    font-family: $font-sans;
-    color: $white;
+    font-family: #font-sans;
+    color: #white;
     width: 188px;
     text-align: center;
     float: left;
