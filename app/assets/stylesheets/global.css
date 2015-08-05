@@ -13,7 +13,7 @@ white: #FFF;
 charcoal: #545251;
 */
 
-.outer-container{
+.first-container{
     background: url(http://sarahdriban.com/site2/img/texture.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -28,7 +28,7 @@ charcoal: #545251;
     color: #FFFFFF;
     text-transform: uppercase;
     font-weight: 700;
-    margin: 60px 0 100px 0;
+    margin: 150px 0 100px 0;
 }
 
 .home {
