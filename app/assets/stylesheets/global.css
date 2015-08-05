@@ -77,9 +77,9 @@ img.pink {
 .button1 p {
     font-family: "Oswald", "Arial", sans-serif;
     font-size: 1.1em;
-    letter-spacing: .05em;
+    letter-spacing: .07em;
     color: #FFFFFF;
-    width: 188px;
+    width: 196px;
     text-align: center;
     float: left;
     text-transform: uppercase;
@@ -87,7 +87,7 @@ img.pink {
 
 .button1 img {
     width: 22px;
-    float: left;
+    float: right;
 }
 
 .button1:hover {
