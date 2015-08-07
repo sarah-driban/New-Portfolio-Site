@@ -144,11 +144,14 @@ Side Bar NAVIGATION
     z-index: 100;
 }
 
-.nav p {
+.nav p, .nav a {
     font-family: "Arvo", serif;
     color: #C1B8AE;
-    line-spacing: 2em;
     margin: 15px 0;
+}
+
+.nav ul {
+    margin: 20px 0;
 }
 
 .upper {
@@ -163,4 +166,13 @@ Side Bar NAVIGATION
     list-style: none;
     line-height: 1em;
     margin: 40px 0;
+}
+
+.nav a:hover{
+    color:#B8BD35;
+}
+
+.nav li:hover {
+    background-color: #B8BD35;
+    cursor: pointer;
 }
