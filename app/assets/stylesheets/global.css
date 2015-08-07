@@ -139,6 +139,9 @@ Side Bar NAVIGATION
     width: 240px;
     height: 640px;
     padding: 30px;
+    position: absolute;
+    right: 0;
+    z-index: 100;
 }
 
 .nav p {
@@ -155,4 +158,7 @@ Side Bar NAVIGATION
     text-transform: uppercase;
     font-size: 2em;
     color: #FFF;
+    list-style: none;
+    line-spacing: 2em;
+    margin-bottom: 40px;
 }
