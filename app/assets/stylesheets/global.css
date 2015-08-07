@@ -165,7 +165,10 @@ Side Bar NAVIGATION
     color: #FFF;
     list-style: none;
     line-height: 1em;
-    margin: 40px 0;
+    margin: 40px 0 40px -5px;
+    height: 50px;
+    text-align: center;
+    padding: 0 0 0 5px;
 }
 
 .nav a:hover{
