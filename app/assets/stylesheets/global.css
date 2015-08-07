@@ -9,7 +9,7 @@ gold: #F6BD18;
 yellow: #FFDC11;
 lime: #B8BD35;
 peach: #F48875;
-pink: #B1245A;
+pink: #B1245A; (177, 36, 90)
 grey: #C1B8AE;
 white: #FFF;
 charcoal: #545251;
@@ -135,7 +135,7 @@ Side Bar NAVIGATION
 ==========================*/
 
 .nav {
-    background-color: #B1245A;
+    background-color: rgba(177, 36, 90, );
     width: 240px;
     height: 640px;
     padding: 30px;
@@ -148,6 +148,7 @@ Side Bar NAVIGATION
     font-family: "Arvo", serif;
     color: #C1B8AE;
     margin: 15px 0;
+    line-height: 2em;
 }
 
 .nav ul {
@@ -166,9 +167,8 @@ Side Bar NAVIGATION
     list-style: none;
     line-height: 1em;
     margin: 40px 0 40px -5px;
-    height: 50px;
-    vertical-align: center;
-    padding: 0 0 0 5px;
+    height: 24px;
+    padding: 6px 0 0 5px;
 }
 
 .nav a:hover{
