@@ -167,7 +167,7 @@ Side Bar NAVIGATION
     line-height: 1em;
     margin: 40px 0 40px -5px;
     height: 50px;
-    text-align: center;
+    vertical-align: center;
     padding: 0 0 0 5px;
 }
 
