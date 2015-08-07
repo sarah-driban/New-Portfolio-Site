@@ -146,7 +146,7 @@ Side Bar NAVIGATION
 
 .nav p {
     font-family: "Arvo", serif;
-    color: #545251;
+    color: #C1B8AE;
     line-spacing: 2em;
     margin: 15px 0;
 }
@@ -161,6 +161,6 @@ Side Bar NAVIGATION
     font-size: 2em;
     color: #FFF;
     list-style: none;
-    line-height: 2em;
+    line-height: 1em;
     margin: 40px 0;
 }
