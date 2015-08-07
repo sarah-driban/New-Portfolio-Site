@@ -139,7 +139,7 @@ Side Bar NAVIGATION
     width: 240px;
     height: 640px;
     padding: 30px;
-    position: absolute;
+    position: fixed;
     right: 0;
     z-index: 100;
 }
@@ -147,6 +147,7 @@ Side Bar NAVIGATION
 .nav p {
     font-family: "Arvo", serif;
     color: #545251;
+    line-spacing: 2em;
 }
 
 .upper {
@@ -160,5 +161,5 @@ Side Bar NAVIGATION
     color: #FFF;
     list-style: none;
     line-spacing: 2em;
-    margin-bottom: 40px;
+    margin: 40px 0;
 }
