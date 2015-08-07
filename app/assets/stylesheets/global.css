@@ -135,7 +135,7 @@ Side Bar NAVIGATION
 ==========================*/
 
 .nav {
-    background-color: rgba(177, 36, 90, );
+    background-color: rgba(177, 36, 90, .8);
     width: 240px;
     height: 640px;
     padding: 30px;
@@ -167,7 +167,7 @@ Side Bar NAVIGATION
     list-style: none;
     line-height: 1em;
     margin: 40px 0 40px -5px;
-    height: 24px;
+    height: 44px;
     padding: 6px 0 0 5px;
 }
 
