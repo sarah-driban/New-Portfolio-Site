@@ -148,6 +148,7 @@ Side Bar NAVIGATION
     font-family: "Arvo", serif;
     color: #545251;
     line-spacing: 2em;
+    margin: 15px 0;
 }
 
 .upper {
@@ -160,6 +161,6 @@ Side Bar NAVIGATION
     font-size: 2em;
     color: #FFF;
     list-style: none;
-    line-spacing: 2em;
+    line-height: 2em;
     margin: 40px 0;
 }
